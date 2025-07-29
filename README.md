@@ -1,2 +1,1 @@
-# LogicBasedModel
-
+# Logic Based Model
